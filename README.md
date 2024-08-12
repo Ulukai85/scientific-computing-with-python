@@ -5,7 +5,7 @@
 
 >This comprehensive course will guide you through the fundamentals of scientific computing, including data structures, and algorithms.
 
-Here I collect all the tutorials and projects I did for this course to earn my Certificate.
+Here I collect all the tutorials and projects I did for [this freeCodeCamp-Course](https://www.freecodecamp.org/learn/scientific-computing-with-python/) to earn my Certificate.
 
 ---
 ### 1. Build an Arithmetic Formatter Project
